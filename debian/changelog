@@ -1,0 +1,5 @@
+dde-top-panel (0.7.0) unstable; urgency=medium
+
+  * fix compile error on deepin v23
+
+ -- ice <Tonimayloneya@gmail.com>  Sun, 7 Apr 2024 16:24:00 +0800

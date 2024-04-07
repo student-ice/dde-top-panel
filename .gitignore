@@ -41,3 +41,17 @@ build
 /bin
 
 CMakeLists.txt.user
+
+# vscode
+.vscode/
+build/
+.ccls*
+obj-x86_64-linux-gnu
+debian/.debhelper
+debian/dde-top-panel
+debian/debhelper-build-stamp
+debian/dde-top-panel.debhelper.log
+debian/dde-top-panel.postrm.debhelper
+debian/dde-top-panel.substvars
+debian/files
+debian/deepin-home.debhelper.log

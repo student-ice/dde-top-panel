@@ -1,0 +1,20 @@
+Source: dde-top-panel
+Section: unknown
+Priority: optional
+Maintainer: xxx <xxxx>
+Build-Depends:
+ debhelper-compat (= 13),
+ cmake,
+ pkg-config,
+ libkf5windowsystem-dev,
+ libdframeworkdbus-dev,
+ libxdo-dev
+Standards-Version: 0.7.0
+Rules-Requires-Root: no
+
+Package: dde-top-panel
+Architecture: any
+Depends:
+ ${shlibs:Depends},
+ ${misc:Depends},
+Description: Top Panel
